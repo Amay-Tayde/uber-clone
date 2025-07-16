@@ -23,7 +23,6 @@
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🖇️ [Links](#links)
 7. 📦 [Assets](#assets)
-8. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
